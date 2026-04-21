@@ -8,3 +8,4 @@ model = DecisionTreeClassifier()
 model.fit(X, y)
 
 print("Model trained successfully")
+print("CI/CD test")
